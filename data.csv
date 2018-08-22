@@ -1,0 +1,16 @@
+﻿ID,age,work,house,credit_rating,class
+1,youth,no,no,fair,no
+2,youth,no,no,good,no
+3,youth,yes,no,good,yes
+4,youth,yes,yes,fair,yes
+5,youth,no,no,fair,no
+6,middle_aged,no,no,fair,no
+7,middle_aged,no,no,good,no
+8,middle_aged,yes,yes,good,yes
+9,middle_aged,no,yes,excellent,yes
+10,middle_aged,no,yes,excellent,yes
+11,old,no,yes,excellent,yes
+12,old,no,yes,good,yes
+13,old,yes,no,good,yes
+14,old,yes,no,excellent,yes
+15,old,no,no,fair,no
